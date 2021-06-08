@@ -1,1 +1,1 @@
-This is READMe file for the developer.
+This is READMe file for the understanding purpose of developer.
